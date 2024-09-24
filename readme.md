@@ -1,7 +1,8 @@
 
 # SMS Classifier: Spam or Ham
-
-<img src="img.jpg" alt="SMS Classifier" width="400"/>
+<p align="center">
+    <img src="img.jpg" alt="SMS Classifier" width="400"/>
+</p>
 
 ## Introduction
 This project aims to build a machine learning model that classifies SMS messages as either "spam" or "ham" (non-spam). Leveraging the Word2Vec model for word embeddings and a Random Forest classifier, the project addresses the challenge of identifying unsolicited messages, thereby enhancing user experience and reducing unwanted communication.
